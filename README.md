@@ -20,8 +20,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunBalaji2004&show_icons=true&locale=en&layout=compact" alt="Tharun Balaji" />
 &nbsp;
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&show_icons=true&locale=en" alt="Tharun Balaji" />
+<a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=sis" width="400" alt="Tharun Balaji's Dev Card"/></a>
 </p>
+<!-- <p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&show_icons=true&locale=en" alt="Tharun Balaji" />
+</p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&" alt="Tharun Balaji" /></p>
