@@ -28,6 +28,5 @@
 </p> -->
 
 <p align="center">
-<h2 align="center">Contributions made</h2>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&" alt="Tharun Balaji" />
 </p>
