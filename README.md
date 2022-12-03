@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
 
-- 🌱 I’m currently learning **App Devleopment & ML**
+- 🌱 I’m currently learning **App Development & ML**
 
 - 📫 How to reach me **tharunbalaji31@gmail.com**
 
