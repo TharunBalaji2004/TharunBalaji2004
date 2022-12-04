@@ -1,8 +1,6 @@
 <h1 align="center">Hello There 👋 I'm Tharun Balaji</h1>
 <h2 align="center">Aspiring Software developer & App Developer</h2>
-<div align="center">
-<img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="center" style="width: 50%" />
-</div>
+
 
 &nbsp;
 &nbsp;
@@ -65,6 +63,9 @@
 &nbsp;
 &nbsp;
 <hr>
+<div align="right">
+<img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="center" style="width: 50%" />
+</div>
 <h4> 
   <details> 
     <summary> GitHub Stats :metal: </summary> 
