@@ -29,3 +29,41 @@
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&" alt="Tharun Balaji" />
 
+<h4> 
+  <details> 
+    <summary> GitHub Stats :metal: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img src="https://komarev.com/ghpvc/?username=TharunBalaji2004&label=PROFILE+VIEWS&color=ff3d67"/> 
+      <br> <br> 
+      <img src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&show_icons=true&theme=radical"/> 
+    </p> 
+  </details> 
+</h4>
+
+<h4> 
+  <details> 
+    <summary> Languages Used :wrench: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunBalaji2004&layout=compact&theme=radical"/> 
+  </details> 
+</h4>
+
+<h4> 
+  <details> 
+    <summary> GitHub Streak :fire: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&theme=radical"/> 
+  </details> 
+</h4>
+
+<h4> 
+  <details> 
+    <summary> GitHub Trophies :trophy: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img width=500 src="https://github-profile-trophy.vercel.app/?username=TharunBalaji2004&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
+  </details> 
+</h4>
