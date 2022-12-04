@@ -24,7 +24,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - tharunbalaji31" height="40" width="40" hspace="20" />
 </a>
   <a href="https://g.dev/TharunBalaji" target="blank">
-  <img align="center" src="https://drive.google.com/file/d/19V5WtvlaDhA5RXQheB__hzznkaAnVEsu/view?usp=sharing" alt="Google Developers - tharunbalaji31" height="40" width="40" hspace="20" />
+  <img align="center" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Google-Developers-900x0.png" alt="Google Developers - tharunbalaji31" height="40" width="40" hspace="20" />
 </a>
 </p>
 
