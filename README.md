@@ -64,8 +64,10 @@
 &nbsp;
 <hr>
 
+<div align="center">
 <img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="center" style="width: 40%" />
-
+</div>
+  
 <div>
 <h4> 
   <details> 
