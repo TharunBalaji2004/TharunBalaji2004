@@ -25,7 +25,7 @@
 <img width="50" height="60" hspace="20" vspace="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img width="50" height="50" hspace="20" vspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1920px-Android_robot_head.svg.png"/>
+  <img width="50" height="50" hspace="20" vspace="20" src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.svg"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png?20140316083713"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/768px-Kotlin_Icon.svg.png?20171012085709"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"/>
