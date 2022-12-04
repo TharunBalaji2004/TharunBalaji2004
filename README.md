@@ -25,7 +25,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&show_icons=true&locale=en" alt="Tharun Balaji" />
 </p> -->
 
-
+&nbsp;
+&nbsp;
 <hr>
 <h4> 
   <details> 
