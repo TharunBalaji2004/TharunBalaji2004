@@ -50,7 +50,7 @@
 <img width="50" height="50" hspace="20" vspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png?20140316083713"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/768px-Kotlin_Icon.svg.png?20171012085709"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"/>
-<img width="50" height="50" hspace="20" vspace="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
+<!-- <img width="50" height="50" hspace="20" vspace="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/> -->
 
 </p>
 </p>
