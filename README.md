@@ -39,7 +39,7 @@
 </p>
 
 <p align="left"> 
-<h3> Languages and Tools :bulb: </h3>
+<h3> Languages and Tools: :bulb: </h3>
 <p>
 <img width="50" height="50" hspace="20" vspace="20"src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png"/>
 <img width="50" height="60" hspace="20" vspace="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
