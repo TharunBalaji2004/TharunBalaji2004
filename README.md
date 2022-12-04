@@ -24,7 +24,7 @@
 <img width="50" height="60" hspace="20" vspace="20" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 <img width="50" height="60" hspace="20" vspace="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
-<img width="50" height="50" hspace="20" vspace="20" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"/>
+<img width="50" height="50" hspace="20" vspace="20" src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 <img width="50" height="50" hspace="20" vspace="20" src=""/>
