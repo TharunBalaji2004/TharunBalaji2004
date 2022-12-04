@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 <div>
-<a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=xnd" width="30%" alt="Tharun Balaji's Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=xnd" width="32%" alt="Tharun Balaji's Dev Card" align="right" /></a>
 </div>
 
 ### About Me: 🙋‍♂️
