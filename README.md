@@ -20,7 +20,7 @@
 <p align="left"> 
 <h3> Languages and Tools :bulb: </h3>
 <p>
-<img width="50" height="50" hspace="20" vspace="20"src="https://cdn.worldvectorlogo.com/logos/c.svg"/>
+<img width="50" height="50" hspace="20" vspace="20"src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png"/>
 <img width="50" height="60" hspace="20" vspace="20" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/>
 <img width="50" height="60" hspace="20" vspace="20" src="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png"/>
 <img width="50" height="50" hspace="20" vspace="20" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
