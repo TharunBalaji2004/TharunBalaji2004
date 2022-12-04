@@ -24,7 +24,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - tharunbalaji31" height="40" width="40" hspace="20" />
 </a>
   <a href="https://g.dev/TharunBalaji" target="blank">
-  <img align="center" src="https://w7.pngwing.com/pngs/444/418/png-transparent-google-i-o-google-developers-google-chrome-google-chart-api-google-angle-text-logo-thumbnail.png" alt="Google Developers - tharunbalaji31" height="40" width="40" hspace="20" />
+  <img align="center" src="https://toppng.com/uploads/preview/google-developers-logo-vector-free-11574219718wnmrucewbg.png" alt="Google Developers - tharunbalaji31" height="40" width="40" hspace="20" />
 </a>
 </p>
 
