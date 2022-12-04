@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ML & Computer Vision**
 
-- 💭 Ask me anything about **Android & Supervised ML**
+- 💭 Ask me anything about **App Development**
 
 - 📫 How to reach me **tharunbalaji31@gmail.com**
 
