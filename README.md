@@ -78,22 +78,22 @@
     </p> 
   </details> 
 </h4>
-
-<h4> 
-  <details> 
-    <summary> Languages Used :wrench: </summary> 
-    <p align="center"> 
-      <br> <br> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunBalaji2004&layout=compact&theme=radical"/> 
-  </details> 
-</h4>
-
+  
 <h4> 
   <details open> 
     <summary> GitHub Streak :fire: </summary> 
     <p align="center"> 
       <br> <br> 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&theme=radical"/> 
+  </details> 
+</h4>
+  
+<h4> 
+  <details> 
+    <summary> Languages Used :wrench: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunBalaji2004&layout=compact&theme=radical"/> 
   </details> 
 </h4>
 
