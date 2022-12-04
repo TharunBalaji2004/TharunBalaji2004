@@ -64,7 +64,7 @@
 &nbsp;
 <hr>
 
-<img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="right" style="width: 50%" />
+<img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="right" style="width: 40%" />
 
 <h4> 
   <details> 
