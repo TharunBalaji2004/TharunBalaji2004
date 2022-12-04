@@ -63,9 +63,9 @@
 &nbsp;
 &nbsp;
 <hr>
-<div align="right">
-<img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="center" style="width: 50%" />
-</div>
+
+<img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="right" style="width: 50%" />
+
 <h4> 
   <details> 
     <summary> GitHub Stats :metal: </summary> 
