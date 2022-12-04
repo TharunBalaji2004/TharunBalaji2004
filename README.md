@@ -26,6 +26,7 @@
 </p> -->
 
 
+<hr>
 <h4> 
   <details> 
     <summary> GitHub Stats :metal: </summary> 
