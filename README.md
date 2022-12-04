@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋 , I'm Tharun Balaji</h1>
+<h1 align="center">Hello There 👋 I'm Tharun Balaji</h1>
 <h2 align="center">Aspiring Software developer</h2>
 
 <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=sis" width="33%" align="right" alt="Tharun Balaji's Dev Card"/></a>
