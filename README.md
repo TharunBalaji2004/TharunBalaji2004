@@ -66,8 +66,8 @@
 
 <img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="right" style="width: 40%" />
 
-
-<h4 align="left"> 
+<div>
+<h4> 
   <details> 
     <summary> GitHub Stats :metal: </summary> 
     <p align="center"> 
@@ -105,3 +105,4 @@
       <img width=500 src="https://github-profile-trophy.vercel.app/?username=TharunBalaji2004&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
   </details> 
 </h4>
+</div>
