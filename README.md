@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently learning **App Development & ML**
 
+- 💭 Ask me anything about Supervised ML & Android 
+
 - 📫 How to reach me **tharunbalaji31@gmail.com**
 
 - 🧠 Begin with the end in mind ~Steve Jobs
