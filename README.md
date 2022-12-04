@@ -18,13 +18,13 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - tharunbalaji31" height="40" width="40" hspace="20" />
 </a>
 <a href="https://leetcode.com/tharunbalaji31/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode - tharunbalaji31" height="40" width="40" hspace="20" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode - tharunbalaji31" height="30" width="30" hspace="20" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/tharunbalaji31/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - tharunbalaji31" height="40" width="40" hspace="20" />
 </a>
   <a href="https://g.dev/TharunBalaji" target="blank">
-  <img align="center" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Google-Developers-900x0.png" alt="Google Developers - tharunbalaji31" height="40" width="40" hspace="20" />
+  <img align="center" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Google-Developers-900x0.png" alt="Google Developers - tharunbalaji31" height="50" width="50" hspace="20" />
 </a>
 </p>
 
