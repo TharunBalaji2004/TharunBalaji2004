@@ -66,7 +66,8 @@
 
 <img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="right" style="width: 40%" />
 
-<h4> 
+
+<h4 align="left"> 
   <details> 
     <summary> GitHub Stats :metal: </summary> 
     <p align="center"> 
@@ -78,7 +79,7 @@
   </details> 
 </h4>
 
-<h4> 
+<h4 align="left"> 
   <details> 
     <summary> Languages Used :wrench: </summary> 
     <p align="center"> 
