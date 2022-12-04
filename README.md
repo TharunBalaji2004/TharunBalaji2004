@@ -68,7 +68,7 @@
   
 <div>
 <h4> 
-  <details> 
+  <details open> 
     <summary> GitHub Stats :metal: </summary> 
     <p align="center"> 
       <br> <br> 
@@ -89,7 +89,7 @@
 </h4>
 
 <h4> 
-  <details> 
+  <details open> 
     <summary> GitHub Streak :fire: </summary> 
     <p align="center"> 
       <br> <br> 
