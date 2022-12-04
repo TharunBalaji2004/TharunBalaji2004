@@ -8,7 +8,7 @@
 <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=sis" width="30%" height="50%" align="right" alt="Tharun Balaji's Dev Card"/></a>
 </div>
 
-### About Me  
+### About Me: 
 - 🎓 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
 
 - 🌱 I’m currently learning **App Development & ML**
