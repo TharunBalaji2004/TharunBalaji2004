@@ -64,13 +64,13 @@
 &nbsp;
 <hr>
 
-<img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="right" style="width: 40%" />
+<img src="https://github.com/TharunBalaji2004/TharunBalaji2004/blob/main/coding.gif?raw=true" align="center" style="width: 40%" />
 
 <div>
 <h4> 
   <details> 
     <summary> GitHub Stats :metal: </summary> 
-    <p align="left"> 
+    <p align="center"> 
       <br> <br> 
       <img src="https://komarev.com/ghpvc/?username=TharunBalaji2004&label=PROFILE+VIEWS&color=ff3d67"/> 
       <br> <br> 
@@ -82,7 +82,7 @@
 <h4> 
   <details> 
     <summary> Languages Used :wrench: </summary> 
-    <p align="left"> 
+    <p align="center"> 
       <br> <br> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunBalaji2004&layout=compact&theme=radical"/> 
   </details> 
