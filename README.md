@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **App Development & ML**
 
-- 💭 Ask me anything about Supervised ML & Android 
+- 💭 Ask me anything about **Android & Supervised ML**
 
 - 📫 How to reach me **tharunbalaji31@gmail.com**
 
