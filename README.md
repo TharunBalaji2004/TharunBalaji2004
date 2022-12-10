@@ -108,9 +108,3 @@
   </details> 
 </h4>
 </div>
-
-<p align="center">
-  <a href="https://leetcode.com/tharunbalaji31/">
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=tharunbalaji31&theme=dark" width="400"/>
-  </a>
-</p>
