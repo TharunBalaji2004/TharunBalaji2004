@@ -35,7 +35,11 @@
 <a href="https://auth.geeksforgeeks.org/user/tharunbalaji31/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - tharunbalaji31" height="40" width="40" hspace="10" />
 </a>
-  <a href="https://g.dev/TharunBalaji" target="_blank">
+<a href="https://www.codechef.com/users/tharunbalaji31" target="_blank">
+  <img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Codechef - tharunbalaji31" height="50" width="50" hspace="10" />
+</a>
+</a>
+<a href="https://g.dev/TharunBalaji" target="_blank">
   <img align="center" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Google-Developers-900x0.png" alt="Google Developers - tharunbalaji31" height="50" width="50" hspace="10" />
 </a>
 </p>
