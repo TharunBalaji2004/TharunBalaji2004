@@ -42,6 +42,9 @@
 <a href="https://g.dev/TharunBalaji" target="_blank">
   <img align="center" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Google-Developers-900x0.png" alt="Google Developers - tharunbalaji31" height="50" width="50" hspace="10" />
 </a>
+<a href="https://www.codingninjas.com/codestudio/profile/cd33948a-f388-4ec5-9bc2-70e4b6a810ef" target="_blank">
+  <img align="center" src="https://files.codingninjas.in/cn-logo-dark-9824.svg" alt="Coding Ninjas - tharunbalaji31" height="50" width="50" hspace="10" />
+</a>
 </p>
 
 <p align="left"> 
