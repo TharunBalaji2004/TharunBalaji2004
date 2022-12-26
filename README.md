@@ -11,7 +11,7 @@
 ### About Me: 🙋‍♂️
 - 🎓 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
 
-- 🌱 I’m currently learning **ML & Computer Vision**
+- 🌱 I’m currently learning **Data Structures & Algorithm**
 
 - 💭 Ask me anything about **App Development**
 
