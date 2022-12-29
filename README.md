@@ -1,4 +1,4 @@
-<h1 align="center">Hello There👋 I'm Tharun Balaji</h1>
+<h1 align="center">Hello There 👋 I'm Tharun Balaji</h1>
 <h2 align="center">Aspiring Software developer & App Developer</h2>
 
 
