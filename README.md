@@ -65,9 +65,7 @@
 </p>
 
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&show_icons=true&locale=en" alt="Tharun Balaji" />
-</p>
+
 
 <hr>
 
@@ -91,6 +89,16 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&theme=radical"/> 
   </details> 
 </h4>
+  
+<h4> 
+  <details> 
+    <summary> GitHub Status :wrench: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&show_icons=true&locale=en" alt="Tharun Balaji" />
+  </details> 
+</h4>
+  
   
 <h4> 
   <details> 
