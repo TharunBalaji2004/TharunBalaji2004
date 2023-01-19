@@ -8,7 +8,7 @@
 <a href="https://app.daily.dev/tharunbalaji31"><img src="https://api.daily.dev/devcards/318751f5fd804e11b8e51086a1d06e66.png?r=ard" width="32%" alt="Tharun Balaji's Dev Card" align="right" /></a>
 </div>
 
-### About Me: 🙋‍♂️
+<!-- ### About Me: 🙋‍♂️
 - 🎓 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
 
 - 🌱 I’m currently learning **Data Structures & Algorithm**
@@ -19,7 +19,7 @@
 
 - 🎯 Checkout my portfolio <a href="https://tharunbalaji2004.github.io/portfolio/" target="_blank">**here**</a>
 
-- 🧠 Begin with the end in mind ~Steve Jobs
+- 🧠 Begin with the end in mind ~Steve Jobs -->
 
 <h3 align="left">Connect with me: 👨‍💻</h3>
 <p align="left">
