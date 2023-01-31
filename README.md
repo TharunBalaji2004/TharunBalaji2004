@@ -87,6 +87,9 @@
     <p align="center"> 
       <br> <br> 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&theme=radical"/> 
+     <p align="center">
+    <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TharunBalaji2004&area=true&layout=compact&theme=tokyo-night&hide_border=true" />
+</p>
   </details> 
 </h4>
   
