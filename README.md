@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tharunbalaji31@gmail.com**
 
-- 🎯 Checkout my portfolio <a href="https://tharunbalaji2004.github.io/portfolio/" target="_blank">**here**</a>
+- 🎯 Checkout my portfolio <a href="https://tharunbalaji-portfolio.web.app" target="_blank">**here**</a>
 
 - 🧠 Begin with the end in mind ~Steve Jobs
 
