@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithm**
 
-- 💭 Ask me anything about **App Development**
+- 💭 Ask me anything about **App Development (Native / Cross Platform)**
 
 - 📫 How to reach me **tharunbalaji31@gmail.com**
 
