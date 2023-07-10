@@ -66,7 +66,7 @@
     </td>
     <td>
       <div align="center">
-        <img alt="html" width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2e8e4f01-ca33-42c2-a5b2-17c9ac709809"/>
+        <img alt="html" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/0bafbe28-91e8-4d67-ac03-4660f2565802"/>
     <img alt="css" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/32ba28de-7946-4183-8e70-41f085132a73"/>
     <img alt="js" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/58e8bfe4-bf90-42e5-85d7-91b237a3e2bc"/>
     <img alt="nodejs" width="80" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/93dde305-345c-47f4-9d84-639af100a33e"/>
