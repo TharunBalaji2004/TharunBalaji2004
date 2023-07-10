@@ -71,11 +71,10 @@
     <img alt="js" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/58e8bfe4-bf90-42e5-85d7-91b237a3e2bc"/>
     <img alt="nodejs" width="80" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/93dde305-345c-47f4-9d84-639af100a33e"/>
     <img alt="flask" width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/6d7d2f8d-5ce9-4538-bec0-465805463adf"/>
-        <img alt="mysql" width="70" height="70" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/1293ceb0-8e75-4240-8766-afef31a34af9" />
+        <img alt="mysql" width="90" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/3960d02c-c89a-40fd-a90e-eb6cda4c34db" />
     <img alt="mongodb" width="70" height="70" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/17642cac-81b6-4233-8ebb-e6f5cb5536e0" />
       </div>
     </td>
-
     <td>
       <div align="center">
         <img width="50" height="50" hspace="10" vspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1031px-Android_logo_2019_%28stacked%29.svg.png?20210331145341"/>
