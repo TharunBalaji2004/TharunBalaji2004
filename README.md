@@ -103,7 +103,7 @@
 <hr>
 
 <div align="center">
-<img src="https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif" align="center" style="width: 60%" />
+<img src="https://github.com/wpcodevo/wpcodevo/blob/main/typing.gif" align="center" style="width: 50%" />
 </div>
   
 <div>
