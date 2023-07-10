@@ -59,30 +59,38 @@
   <th>DevOps</th>
   <tr>
     <td>
-    <img width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/ed1d6b1d-750f-4df7-8744-5f697e65b0fa" />
-    <img width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2a864905-cac2-4d9e-af99-7d7d9438684d"/>
+      <div align="center">
+<img width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/ed1d6b1d-750f-4df7-8744-5f697e65b0fa" />
+    <img width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2a864905-cac2-4d9e-af99-7d7d9438684d"/> 
+      </div>
     </td>
     <td>
-    <img alt="html" width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2e8e4f01-ca33-42c2-a5b2-17c9ac709809"/>
+      <div align="center">
+        <img alt="html" width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2e8e4f01-ca33-42c2-a5b2-17c9ac709809"/>
     <img alt="css" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/32ba28de-7946-4183-8e70-41f085132a73"/>
     <img alt="js" width="50" height="50" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
     <img alt="nodejs" width="80" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/93dde305-345c-47f4-9d84-639af100a33e"/>
     <img alt="flask" width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/6d7d2f8d-5ce9-4538-bec0-465805463adf"/>
     <img alt="mysql" width="70" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/e6868a84-9d4d-4e92-8bf1-b71835754601"/>
+      </div>
     </td>
     <td>
-    <img width="50" height="50" hspace="10" vspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1031px-Android_logo_2019_%28stacked%29.svg.png?20210331145341"/>
+      <div align="center">
+        <img width="50" height="50" hspace="10" vspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1031px-Android_logo_2019_%28stacked%29.svg.png?20210331145341"/>
     <img width="50" height="60" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
     <img width="50" height="50" hspace="10" vspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/768px-Kotlin_Icon.svg.png?20171012085709"/>
 <img width="50" height="50" hspace="10" vspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png?20140316083713"/>
 <img width="50" height="50" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"/>
       <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2892d76a-5c4e-43bd-87a2-526e5327100c"/>
       <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/80efaa46-a449-467d-865d-79ae62d8d6ce"/>
+      </div>
     </td>
     <td>
-    <img width="50" height="50" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+      <div align="center">
+        <img width="50" height="50" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
     <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/7352e05b-37af-44e3-ba01-7a777a98d8e1"/>
     <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/65a5d3b4-4dbb-4b1c-b56b-b484b1d2bef9"/>
+      </div>
     </td>
   </tr>
 </table>
