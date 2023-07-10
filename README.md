@@ -50,6 +50,8 @@
 <p align="left"> 
 <h3> Languages and Tools: :bulb: </h3>
 </p>
+
+<div align="center">
 <table>
   <th>Web Dev</th>
   <th>App Dev</th>
@@ -71,6 +73,9 @@
     </td>
   </tr>
 </table>
+  
+</div>
+
 
 <hr>
 
