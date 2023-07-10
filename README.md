@@ -68,10 +68,10 @@
       <div align="center">
         <img alt="html" width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2e8e4f01-ca33-42c2-a5b2-17c9ac709809"/>
     <img alt="css" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/32ba28de-7946-4183-8e70-41f085132a73"/>
-    <img alt="js" width="50" height="50" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
+    <img alt="js" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/58e8bfe4-bf90-42e5-85d7-91b237a3e2bc"/>
     <img alt="nodejs" width="80" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/93dde305-345c-47f4-9d84-639af100a33e"/>
     <img alt="flask" width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/6d7d2f8d-5ce9-4538-bec0-465805463adf"/>
-    <img alt="mysql" width="70" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/e6868a84-9d4d-4e92-8bf1-b71835754601"/>
+    <img alt="mongodb" width="70" height="70" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/17642cac-81b6-4233-8ebb-e6f5cb5536e0" />
       </div>
     </td>
     <td>
