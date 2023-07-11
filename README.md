@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **tharunbalaji31@gmail.com**
 
+- ✍️ I write tech blogs here <a href="https://tharunbalaji2004.hashnode.dev/" target="_blank">**tharunbalaji2004.hashnode.dev**</a>
+
 - 🎯 Checkout my portfolio <a href="https://tharunbalaji-portfolio.web.app" target="_blank">**here**</a>
 
 - 🧠 Begin with the end in mind ~Steve Jobs
