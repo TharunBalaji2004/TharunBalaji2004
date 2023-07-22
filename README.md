@@ -117,36 +117,21 @@
       <!--<img src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&show_icons=true&theme=radical" /> -->
     </p> 
   
-<h4> 
-  <details open> 
-    <summary> GitHub Streak :fire: </summary> 
-    <p align="center"> 
-      <br> <br> 
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&theme=radical"/> 
-     <p align="center">
-    <img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TharunBalaji2004&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-  </details> 
-</h4>
-  
-<h4> 
-  <details> 
-    <summary> GitHub Status :wrench: </summary> 
-    <p align="center"> 
-      <br> <br> 
-      <img src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&show_icons=true&locale=en" alt="Tharun Balaji" />
-  </details> 
-</h4>
-  
-  
-<h4> 
-  <details> 
-    <summary> Languages Used :wrench: </summary> 
-    <p align="center"> 
-      <br> <br> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunBalaji2004&layout=compact&theme=radical"/> 
-  </details> 
-</h4>
+<p align="center"> 
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunBalaji2004&theme=radical"/> 
+ <p align="center">
+<img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TharunBalaji2004&theme=tokyo-night&area=true&hide_border=true" />
+
+<div align="center">
+<table>
+  <tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=TharunBalaji2004&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tharun Balaji" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunBalaji2004&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tharun Balaji" /></td>
+  </tr>
+</table>  
+</div>
 
 <h4> 
   <details> 
