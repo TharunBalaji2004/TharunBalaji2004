@@ -133,6 +133,9 @@
 </table>  
 </div>
 
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
+
 <h4> 
   <details> 
     <summary> GitHub Trophies :trophy: </summary> 
