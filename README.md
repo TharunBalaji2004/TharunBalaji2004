@@ -1,10 +1,6 @@
-
-
-
 <h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Tharun Balaji</h1>
 <h2 align="center">Aspiring SDE & Android App Developer</h2>
 
-![image](https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/33f86017-9d44-4a35-8ff5-6a4072b13a2d)
 &nbsp;
 &nbsp;
 <div>
