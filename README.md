@@ -132,9 +132,6 @@
 </table>  
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/438262578481856532)](https://discord.com/users/438262578481856532)
-
-
 <!--START_SECTION:SHOW_LANGUAGE-->
 <!--END_SECTION:SHOW_LANGUAGE-->
 
