@@ -130,10 +130,6 @@
 </table>  
 </div>
 
-[![An image of @tharunbalaji2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharunbalaji2004)](https://holopin.io/@tharunbalaji2004)
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
-
 <h4> 
   <details> 
     <summary> GitHub Trophies :trophy: </summary> 
