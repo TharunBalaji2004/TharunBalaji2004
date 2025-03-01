@@ -9,7 +9,7 @@
 </div>
 
 ### About Me: 🙋‍♂️
-- 🎓 I’m currently Studying In **Chennai Institute Of Technology BE Computer Science**
+- 🎓 I’m currently pursuing **BE Computer Science** at **Chennai Institute Of Technology**
 
 - 🌱 I’m currently learning **Data Structures & Algorithm**
 
